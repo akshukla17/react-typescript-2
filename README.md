@@ -1,3 +1,15 @@
+# Features
+
+    Basic app where user can
+
+1. Add task in the list
+2. display task in the list
+3. edit a task
+4. delete a task
+5. mark a task done.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
