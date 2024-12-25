@@ -8,7 +8,11 @@
 4. delete a task
 5. mark a task done.
 
----
+--- having feature of -----
+
+6. it donwgrade react to react 18 (stable) to make stable behaviour
+
+7. integrated react-beautiful-dnd library to enabl drag & drop between "Active" and "Completed" tasks list
 
 # Getting Started with Create React App
 
